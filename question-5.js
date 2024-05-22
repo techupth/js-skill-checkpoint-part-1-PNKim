@@ -17,8 +17,8 @@ const products = [
   },
 ];
 
-const promotionCode = "SALE20";
-// const promotionCode = "SALE50";
+// const promotionCode = "SALE20";
+const promotionCode = "SALE50";
 // const promotionCode = "";
 // เริ่มเขียนโค้ดตรงนี้
 const calculateTotalPrice = (products, promotionCode) => {
